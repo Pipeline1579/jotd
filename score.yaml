@@ -5,3 +5,7 @@ metadata:
 containers:
   genius:
     image: .
+resources:
+    jotd-dns:
+      type: dns
+    
